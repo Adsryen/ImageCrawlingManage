@@ -51,7 +51,7 @@ def save_imgs(img_url,htmls,HEADERS):
 #保存链接到目录下
 def save_imgs_urls(imgs_urls):
     filepath = 'imgs_urls.txt'
-    filepath_check = 'imgs_urls_check.txt'
+    filepath_check = 'sexy.txt'
     with open(filepath, 'a') as f:
         f.write( imgs_urls + '\n')
 

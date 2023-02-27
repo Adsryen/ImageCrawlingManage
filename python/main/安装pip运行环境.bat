@@ -1,0 +1,1 @@
+cmd /k "cd /d C:\Users\Administrator&&pip install -r requirement.txt

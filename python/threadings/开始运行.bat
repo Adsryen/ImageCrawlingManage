@@ -1,0 +1,1 @@
+cmd /k "cd /d E:\OneDrive\python\demo-py&&python xiuren-main.py
